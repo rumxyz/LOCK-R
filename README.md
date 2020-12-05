@@ -1,10 +1,9 @@
-
 <h1 align="center">
   LOCK-R
 </h1>
 </div>
 <p align="center">
-  Made with ❤️ by <a href="git clone https://github.com/rumxyz">Rum Delvino</a>
+  Made with  by <a href="git clone https://github.com/rumxyz">RUM Delvino 2004</a>
 </p>
 <p align="center">
  <img src="https://github.com/rumxyz/LOCK-R/blob/main/Screenshot_2020-12-05-12-07-48-564_com.termux.jpg" width="640" title="Menu" alt="Menu">
@@ -14,13 +13,13 @@
 
 ## Features
 * Login Via Token
-* Crack Account Bangladesh/India/Pakistan
+* Crack Account Bangladesh/India
 ## Install script on Termux
 ```
 $ apt update && pkg upgrade -y
 $ apt install python2 -y
 $ apt install git -y
-$ git clone https://github.com/rumxyz/LOCK-R
+$ git clone git clone https://github.com/rumxyz/LOCK-R
 ```
 
 ## Run script
