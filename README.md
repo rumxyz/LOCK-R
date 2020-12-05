@@ -28,3 +28,10 @@ $ cd LOCK-R
 $ ls
 $ python2 LOCK-R.py
 ```
+
+## MY SOCIAL MEDIA
+[![Github](https://img.shields.io/badge/Github-Ikuti-green?style=for-the-badge&logo=github)](https://github.com/rumxyz)
+[![Facebook](https://img.shields.io/badge/Facebook-Ikuti-green?style=for-the-badge&logo=facebook)](https://m.facebook.com/RUMXYZ5X)
+[![Instagram](https://img.shields.io/badge/Instagram-Ikuti-green?style=for-the-badge&logo=instagram)](https://Instagram.com/_rumxyz)
+[![WhatsApp](https://img.shields.io/badge/whatsapp-Hubungi-brightgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send/?phone=%2B6285695037877&text&app_absent=0)
+
