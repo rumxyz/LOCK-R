@@ -19,7 +19,7 @@
 $ apt update && pkg upgrade -y
 $ apt install python2 -y
 $ apt install git -y
-$ git clone git clone https://github.com/rumxyz/LOCK-R
+$ git clone https://github.com/rumxyz/LOCK-R
 ```
 
 ## Run script
