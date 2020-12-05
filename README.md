@@ -13,7 +13,7 @@
 ➠git clone https://github.com/rumxyz/LOCK-R
 
 
-➠cd LOCK-R.py
+➠cd LOCK-R
 
 
 ➠ls
