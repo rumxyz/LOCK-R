@@ -10,7 +10,7 @@
 ➠pkg install git
 
 
-➠git clone https://github.com/rumxyz/LOCK-R.py
+➠git clone https://github.com/rumxyz/LOCK-R
 
 
 ➠cd LOCK-R.py
